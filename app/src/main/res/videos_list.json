@@ -1,45 +1,48 @@
 [
-{
-list: "Drama",
-image: “image url”,
-no_of_titles: 20,
-titles:[ {
-title: “title 1”,
-image: “image urll”,
-no_of_episodes: 10,
-episodes: [ {
-video: “video 1”,
-url:”video url”
-},
-{video: “video 1”,
-url:"video url"
-},
-.
-.
-.
+	{
+		list: "Drama",
+		image: “image url”,
+		no_of_titles: 20,
+		titles:[ {
+			title: “title 1”,
+			image: “image urll”,
+			no_of_episodes: 10,
+			episodes: [ {
+				video: “video 1”,
+				url:”video url”
+				},
+			{
+				video: “video 1”,
+				url:"video url"
+			},
+			.
+			.
+			.
+			]
+		}, {
+			title: “title 1”,
+			image: “image urll”,
+			no_of_episodes: 10,
+			episodes: [ {
+				video: “video 1”,
+				url:”video url”
+			},
+			.
+			.
+			]
+		},
+			.
+			.
+			.
+		]
+	}, {
+		list: "comedy",
+		image: “image url”,
+		no_of_titles: 10,
+		.
+		.
+		.
+	}
 ]
-}, {
-title: “title 1”,
-image: “image urll”,
-no_of_episodes: 10,
-episodes: [ {
-video: “video 1”,
-url:”video url”
-},
-.
-.
-]
-},
-.
-.
-.
-]
-}, {
-list: "comedy",
-image: “image url”,
-no_of_titles: 10,
-.
-.
-.
-}
-]
+
+
