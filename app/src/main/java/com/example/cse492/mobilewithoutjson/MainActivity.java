@@ -42,7 +42,8 @@ import javax.xml.parsers.DocumentBuilderFactory;
 public class MainActivity extends ActionBarActivity {
 
     // All static variables
-    static final String URL = "http://api.androidhive.info/music/music.xml";
+    static final String URL = "https://raw.githubusercontent.com/benchada/Video_MobileApp/master/app/src/main/res/videos_list.xml";
+    //static final String URL = "http://api.androidhive.info/music/music.xml";
     // XML node keys
     static final String KEY_SONG = "song"; // parent node
     static final String KEY_ID = "id";
