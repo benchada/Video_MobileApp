@@ -1,10 +1,13 @@
 <music>
-<song>
+<category>
 <id>1</id>
-<title>Someone Like You</title>
-<artist>Adele</artist>
-<duration>4:47</duration>
-<thumb_url>http://api.androidhive.info/music/images/adele.png</thumb_url>
+<name> Drama </name>
+<song>
+	<id>1</id>
+	<title>Someone Like You</title>
+	<artist>Adele</artist>
+	<duration>4:47</duration>
+	<thumb_url>http://api.androidhive.info/music/images/adele.png</thumb_url>
 </song>
 <song>
 <id>2</id>
@@ -40,6 +43,10 @@ http://api.androidhive.info/music/images/rihanna.png
 http://api.androidhive.info/music/images/arrehman.png
 </thumb_url>
 </song>
+</category>
+<category>
+<id>2</id>
+<name> Romance </name>
 <song>
 <id>6</id>
 <title>All My Days</title>
@@ -72,6 +79,10 @@ http://api.androidhive.info/music/images/enrique.png
 <duration>2:42</duration>
 <thumb_url>http://api.androidhive.info/music/images/ennio.png</thumb_url>
 </song>
+</category>
+<category>
+<id>3</id>
+<name> Jazz </name>
 <song>
 <id>10</id>
 <title>Show me the meaning</title>
@@ -245,4 +256,5 @@ http://api.androidhive.info/music/images/enrique.png
 http://api.androidhive.info/music/images/backstreet_boys.png
 </thumb_url>
 </song>
+</category>
 </music>
